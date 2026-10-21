@@ -8,9 +8,8 @@
 [![Vision](https://img.shields.io/badge/Vision-OpenCV%20%7C%20PyTorch-orange.svg)](./vision)
 [![LLM](https://img.shields.io/badge/Language-LangChain%20%7C%20RAG-purple.svg)](./llm)
 
-**Team:** Ammar, Muavia, Moyeon, Awais  
-**Event:** Banana Hacks 2026 (Devpost, Oct 9 – Oct 12, 2026)  
-**Demo Video:** [2:40 YouTube Walkthrough](https://youtube.com)  
+**Team:** Ammar, Muavia, Atiqua, Awais  
+ 
 
 ---
 
@@ -205,7 +204,7 @@ using them as benchmark results.
 ---
 
 ## 👥 Team Split & Credits
-- **Moyeon**: Frontend Lead, UI/UX, Camera integration, Test Data curation & Demo Video.
+- **Atiqua**: Frontend Lead, UI/UX, Camera integration, Test Data curation & Demo Video.
 - **Ammar**: Backend Lead, Pipeline Orchestrator, REST API, Deck & Submission lead.
 - **Muavia**: Vision & ML Lead, OpenCV cleanup, PyTorch detector fine-tuning, Graph builder.
 - **Awais**: Language & RAG Lead, Grounded prompt engineering, Quiz generation, Quality review.
