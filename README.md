@@ -204,7 +204,7 @@ using them as benchmark results.
 ---
 
 ## 👥 Team Split & Credits
-- **Atiqua**: Frontend Lead, UI/UX, Camera integration, Test Data curation & Demo Video.
+- **Atiqua**: Roboflow detection + Qwen-VL OCR integration, OCR fixes, Frontend, test data curation
 - **Ammar**: Backend Lead, Pipeline Orchestrator, REST API, Deck & Submission lead.
 - **Muavia**: Vision & ML Lead, OpenCV cleanup, PyTorch detector fine-tuning, Graph builder.
 - **Awais**: Language & RAG Lead, Grounded prompt engineering, Quiz generation, Quality review.
